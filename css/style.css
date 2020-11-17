@@ -179,6 +179,12 @@ nav ul li a:hover{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    transition: all 0.5s;
+}
+
+.grid-item:hover{
+    opacity: 0.5;
+    cursor: pointer;
 }
 
 #one{
